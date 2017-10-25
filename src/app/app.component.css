@@ -1,0 +1,15 @@
+.pink{background-color:pink;}
+.lightpink{background-color:lightpink;}
+.hotpink{background-color:hotpink;}
+.deeppink{background-color:deeppink;}
+.palevioletred{background-color:palevioletred;}
+.mediumvioletred{background-color:mediumvioletred;}
+.peachpuff{background-color:peachpuff;}
+.thistle{background-color:thistle;}
+.box{
+    border:1px solid black;
+    height:40px;
+    width:40px;
+    display:inline-block;
+    margin:0;
+}
